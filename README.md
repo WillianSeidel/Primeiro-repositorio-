@@ -1,4 +1,3 @@
 # Primeiro-repositorio-
 Desafio Git/Github
-Apenas um teste
-XXXXXXXXXXX
+Apenas um teste para enteder sobre o funcionamento do GIT.
